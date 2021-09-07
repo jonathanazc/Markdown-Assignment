@@ -11,7 +11,8 @@ Today, I am writing about how to include a Youtube video into your html page.
 - Once it opens, click the "Embed" button which looks like "<>"
 - You should see a line of code wrapped in an iframe tag
     - Ex: <iframe widht"500" height="315" src="https://www.youtube.com/embed/qz0aGYrrlhU" ...></iframe>
-<img src="first.jpg">
+	
+![first image](first.jpg)
 
 ## 2) Putting it into your webapge
  - Once you find the iframe embedded code provided by YouTube, you can copy and paste that code into your html webpage
@@ -23,13 +24,13 @@ Today, I am writing about how to include a Youtube video into your html page.
 </body>
 </html>
 
-<img src="second.jpg">
+![second image](second.jpg)
 
 
 ## 3) Save and Reload your webpage
 - Once it is done and pasted, reload your webpage and it should be there ready to play.
 - Enjoy the video!
-<img src="thirds.jpg">
+![third img]{thirds.jpg)
 
 ## Notes
 - you can mess around with the width, height and a variety of style and formats like in HTML
