@@ -26,7 +26,7 @@ Today, I am writing about how to include a Youtube video into your html page.
 
 ## 3) Save and Reload your webpage
 - Once it is done and pasted, reload your webpage and it should be there ready to play.
-- Enjoy the video!
+- Enjoy the video
 ![third image]{third.JPG)
 
 ## Notes
