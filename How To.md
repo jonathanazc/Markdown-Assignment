@@ -9,6 +9,7 @@ Today, I am writing about how to include a Youtube video into your html page.
 - In this step, you will find the video you want to attach to your webpage and finding the embedded code attached to the video
 - Find the "share" button right next to the likes and dislikes of the video and click on it.
 - Once it opens, click the "Embed" button which looks like "<>"
+
 ![first image](first.JPG)
 
 ## 2) Putting it into your webapge
@@ -27,7 +28,7 @@ Today, I am writing about how to include a Youtube video into your html page.
 ## 3) Save and Reload your webpage
 - Once it is done and pasted, reload your webpage and it should be there ready to play.
 - Enjoy the video
-![third image]{third.JPG)
+![third image](third.JPG)
 
 ## Notes
 - you can mess around with the width, height and a variety of style and formats like in HTML
